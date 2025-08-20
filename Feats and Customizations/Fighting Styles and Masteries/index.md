@@ -5,8 +5,6 @@ has_children: true
 nav_order: 
 ---
 
-<div class="wide">
-
 # Fighting Styles and Masteries
 
 The following Fighting Styles can be taken as a Feat choice as well as obtained from Martial Classes such as Fighter and Paladin. There are also Fighting Masteries which can be taken as Feats and replace many 5e Feats (such as Sentinel and Great Weapon Master or Crossbow Expert)
@@ -28,8 +26,8 @@ You adopt a particular style of fighting as your specialty, gaining the followin
 You are skilled at returning pain to those who deliver it. While you are wielding a melee weapon with which you are proficient, you gain the following benefit: 
 - When you deal damage to a creature that includes your Strength modifier, you add twice your Strength modifier if that creature dealt damage to you since the start of your last turn.
 - When you choose to let an attack hit you, the creature rolls the damage as normal instead of choosing the maximum.
-  
-  (Normally, you can choose to allow a miss to hit you. If you do so, the attacker chooses the maximum amount of damage instead of rolling.)
+
+(Normally, you can choose to allow a miss to hit you. If you do so, the attacker chooses the maximum amount of damage instead of rolling.)
 
 ### Berserk Mastery
 You've mastered returning pain to those who deliver it, becoming a scourge on the battlefield. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:
