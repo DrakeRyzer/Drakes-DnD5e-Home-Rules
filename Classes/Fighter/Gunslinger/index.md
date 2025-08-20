@@ -6,4 +6,4 @@ has_children: true
 nav_order:
 ---
 
-[Matt Mercer's Gunslinger](Classes\Fighter\Gunslinger\563826-Gunslinger_1.3.pdf)
+[Matt Mercer's Gunslinger](https://drive.google.com/file/d/18as4krxJx5UTjggfztGRNgpB_nffe9XR/view?usp=drive_link)
