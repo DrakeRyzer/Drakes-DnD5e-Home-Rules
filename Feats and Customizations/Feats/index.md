@@ -17,7 +17,7 @@ You adopt a particular style of fighting as your specialty, gaining the followin
 You can select this feat multiple times. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Mobile+
-Prerequisite: 4th-Level; Dexterity or Constitution 13+
+*Prerequisite: 4th-Level; Dexterity or Constitution 13+<br>*
 You possess exceptional speed and stamina, granting you the following benefits:
 
 - **Ability Score Increase.** Increase your Dexterity or Constitution score by 1, to a maximum of 20.
