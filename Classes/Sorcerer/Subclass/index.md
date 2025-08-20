@@ -1,43 +1,43 @@
 ---
-title: Subclass
+title: Spellfire
 parent: Sorcerer
 grand_parent: Classes
 has_children: true
 nav_order: 
 ---
 
-# Sorcerer
+# Sorcerer Subclass
 
-## Stone Sorcery
-Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command. 
+## Spellfire
+Your innate magic comes from refining and controling raw magic, often called spellfire. Spellfire energies can be used to heal, to project destructive bursts of flame from your body, to fly or absorb spells cast upon you, turning them against their caster. It often manifests as a white-hot energy or blue-white flame. 
 
-Your link to earth magic grants you extraordinary resilience, and stone sorcerers have a natural affinity for combat. A steel blade feels like a natural extension of your body, and sorcerers with this origin have a knack for wielding both shields and weapons. In combat your place is amid the fray. You rely on your elemental nature to shield you from harm and your magic and metal weapons to overwhelm your foes.
+For a long time, the ability to control spellfire was believed to be unique to a single person each generation, but that was a fallacy: most wielders simply choose to hide their ability in order to avoid getting noticed by powerful organizations such as the Cult of the Dragon.
 
-### Bonus Proficiencies
- At 1st level, you gain proficiency with shields, simple weapons, and martial weapons. 
+### Raw Energy Conversion
+Spellfire: 1st level<br>
+Raw magic flows through your body and strengthens you, granting the following benefits:
 
-### Metal Magic
-Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you. 
+- Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.
+- Your base AC becomes 13 + your Constitution modifier.
+- When you make a melee weapon attack as a part of a spell you cast, you can use Charisma instead of Strength for the attack and damage rolls.
 
-|Spell Level |Spell |
-|:--:|:--:|
-|1st| compelled duel, searing smite, thunderous smite, wrathful smite| 
-|2nd| branding smite, magic weapon |
-|3rd| blinding smite, elemental weapon |
-|4th| staggering smite |
+Additionally, as an action, you can gain resistance to kinetic and energy damage for 1 minute. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield. You can use this feature twice. You regain all expended uses of it when you finish a short or long rest.
 
-### Stone’s Durability
-At 1st level, your connection to stone gives you extra fortitude. Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class. As an action, you can gain a base AC of 13 + your Constitution modifier if you aren’t wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield. 
+### Spellfire Retaliation
+Starting at 6th level, you learn to turn an opponent’s aggression back on them. 
 
-### Stone Aegis
-Starting at 6th level, your command of earth magic grows stronger, allowing you to harness it for your allies’ protection. As a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. This effect lasts for 1 minute, until you use it again, or until you are incapacitated. 
+When you deal damage with a spell or a melee weapon attack, if you took damage since the start of your last turn, you deal an extra 1d4 damage. The damage is the same type as the spell or weapon’s damage.
 
-In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can teleport only if you and the attacker are on the same surface. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 1d10 force damage. 
+This die increases when you reach certain levels in this class: to 1d6 at 9th level, to 1d8 at 12th level, to 1d10 at 15th level and to 1d12 at 18th level.
 
-This extra damage increases to 2d10 at 11th level and 3d10 at 17th level. 
+### Magic Conversion
+Starting at 6th level, when you take damage from a spell, you can use your reaction and expend a spell slot to regain health equal to 1d4 + your Charisma modifier as long as that damage would not have reduced your hit points to 0.
 
-### Stone’s Edge
-Starting at 14th level, your mastery of earth magic allows you to add the force of elemental earth to your spells. When you cast a spell that deals damage, choose one creature damaged by that spell on the round you cast it. That creature takes extra force damage equal to half your sorcerer level. This feature can be used only once per casting of a spell. 
+This die increases when you reach certain levels in this class: to 1d6 at 9th level, to 1d8 at 12th level, to 1d10 at 15th level, to 1d12 at 18th level,
 
-### Earth Master’s Aegis
-Beginning at 18th level, when you use your Stone’s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+### Spellfire Unleashed
+Starting at 18th level, as an action, you can choose a point within 60 feet. Each creature of your choice within 30 feet of that point must make a Constitution saving throw against your universal force save DC. On a failed save, a creature takes 5d10 force damage and suffers 1 level of exhaustion. On a successful save, a creature takes half damage and does not suffer exhaustion.
+
+For each creature that fails this saving throw, a friendly creature within 30 feet of them can regain hit points equal to the amount of damage dealt. A friendly creature can only gain this benefit once per turn.
+
+You can use this feature six times. You regain all expended uses when you finish a long rest.
