@@ -3,7 +3,7 @@ title: Fighter Maneuvers
 parent: Fighter
 grand_parent: Classes
 has_children: true
-nav_order: 
+nav_order: 1
 ---
 
 # Fighter Maneuvers
