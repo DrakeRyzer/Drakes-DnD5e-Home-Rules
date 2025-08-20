@@ -26,14 +26,14 @@ Additionally, as an action, you can gain resistance to kinetic and energy damage
 ### Spellfire Retaliation
 Starting at 6th level, you learn to turn an opponent’s aggression back on them. 
 
-When you deal damage with a spell or a melee weapon attack, if you took damage since the start of your last turn, you deal an extra 1d4 damage. The damage is the same type as the spell or weapon’s damage.
+When you deal damage with a spell or a melee weapon attack, if you took damage since the start of your last turn, you deal an extra 1d6 damage. The damage is the same type as the power or weapon’s damage.
 
-This die increases when you reach certain levels in this class: to 1d6 at 9th level, to 1d8 at 12th level, to 1d10 at 15th level and to 1d12 at 18th level.
+This die increases when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
 ### Magic Conversion
-Starting at 6th level, when you take damage from a spell, you can use your reaction and expend a spell slot to regain health equal to 1d4 + your Charisma modifier as long as that damage would not have reduced your hit points to 0.
+Starting at 10th level, when you take damage from a spell, you can use your reaction and expend a spell slot to regain health equal to 1d8 + your Charisma modifier as long as that damage would not have reduced your hit points to 0.
 
-This die increases when you reach certain levels in this class: to 1d6 at 9th level, to 1d8 at 12th level, to 1d10 at 15th level, to 1d12 at 18th level,
+This die increases when you reach certain levels in this class: to 1d10 at 13th level, and to 1d12 at 17th level.
 
 ### Spellfire Unleashed
 Starting at 18th level, as an action, you can choose a point within 60 feet. Each creature of your choice within 30 feet of that point must make a Constitution saving throw against your universal force save DC. On a failed save, a creature takes 5d10 force damage and suffers 1 level of exhaustion. On a successful save, a creature takes half damage and does not suffer exhaustion.
