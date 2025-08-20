@@ -17,7 +17,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 ### Metamagic
 At 3rd level, you gain the ability to twist your spells to suit your needs. 
 
-You gain two of the following Metamagic options of your choice. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+You gain two of the following Metamagic options of your choice. You gain one more options at Sorcerer level 9 and two more at Sorcerer level 17.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
