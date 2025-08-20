@@ -31,7 +31,7 @@ As an action, you can gain resistance to bludgeoning, piercing and slashing dama
 
 You can use this feature twice and regain all expended uses of it when you finish a short or long rest.
 
-### Raw Magic Conversion
+### Magic Conversion
 Spellfire: 10th level<br>
 When you take damage from a spell, you can use your reaction and expend a spell slot to regain health equal to 1d8 + your Charisma modifier as long as that damage would not have reduced your hit points to 0.
 
@@ -39,9 +39,9 @@ This die increases when you reach certain levels in this class: to 1d10 at 13th 
 
 ### Unrelenting Resilience
 Spellfire: 14th level<br>
-When you use your Magic Conversion feature while concentrating on a spell, you can add the result of the roll to the Constitution saving throw made to maintain concentration.
+When you use your Magic Conversion feature while concentrating on a spell, you can add the amount healed to a Constitution saving throw made to maintain concentration.
 
-Additionally, when you are reduced to 0 hit points but not killed outright while Raw Energy Conversion is active, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+Additionally, when you are reduced to 0 hit points but not killed outright while Protection of the Weave is active, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 
 ### Spellfire Unleashed
 Spellfire: 18th level<br>
