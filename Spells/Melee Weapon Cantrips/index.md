@@ -17,7 +17,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 acid damage to the target, and the damage the target takes for taking grappling or maintaining a grapple increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.
 
 ***Classes:** Druid, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Booming Blade
 *Evocation Cantrip*
@@ -31,7 +31,7 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 
 ***Classes:** Artificer, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Defensive Blade
 *Evocation Cantrip*
@@ -47,7 +47,7 @@ If the target forces you to make a saving throw before the start of your next tu
 **Higher Levels:** The spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 psychic damage to the target, and the psychic damage the target takes for forcing you to make a saving throw increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.
 
 ***Classes:** Bard, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Force Blade
 *Evocation Cantrip*
@@ -61,7 +61,21 @@ You imbue your weapon with a purifying light. As part of the action used to cast
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 force damage to the target, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.
 
 ***Classes:** Artificer, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
+
+## Green-Flame Blade
+*Evocation Cantrip*
+<br>**Casting Time:** 1 action
+<br>**Range:** Self (5-foot radius)
+<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Duration:** Instantaneous
+ 
+You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier.
+
+**Higher Levels:** This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 fire damage to the target on a hit, and the fire damage to the second creature increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase by 1d8 at 11th level (2d8 and 2d8) and 17th level (3d8 and 3d8).
+
+***Classes:** Artificer, Sorcerer, Warlock, Wizard*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Illusory Blade
 *Evocation Cantrip*
@@ -75,7 +89,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell creates multiple duplicates when you reach higher levels. At 5th level, you create a second illusory duplicate, and the target has disadvantage on the next two attacks it makes against you before the start of your next turn. The number of duplicates and attacks with disadvantage increases to three at 11th level and four at 17th level.
 
 ***Classes:** Bard, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Lightning Blade
 *Evocation Cantrip*
@@ -89,7 +103,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 ion damage to the target, and the damage the target takes for taking reactions increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.
 
 ***Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Necrotic Blade
 *Evocation Cantrip*
@@ -103,7 +117,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 necrotic damage to the target, and you can increase the secondary damage to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.
 
 ***Classes:** Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Psychic Blade
 *Evocation Cantrip*
@@ -117,7 +131,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 psychic damage to the target, and the damage the target takes for speaking increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.
 
 ***Classes:** Bard, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Rime Blade
 *Evocation Cantrip*
@@ -133,7 +147,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 sonic damage to the target, and the secondary damage increases by 1d4. Both damage rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
 
 ***Classes:** Druid, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## True Strike
 *Divination Cantrip*
@@ -147,7 +161,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 **Higher Levels:** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
 ***Classes:** Bard, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcana Cleric, Arcane Trickster Rogue, Arcane Trickster Rogue, Lore Bard, Diviner Wizard, Eldritch Knight Fighter, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Venomous Blade
 *Evocation Cantrip*
@@ -161,7 +175,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 poison damage to the target, and the damage the target takes when you are hidden from it increases to 2d4. Both damage rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
 
 ***Classes:** Druid, Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
 
 ## Warp Blade
 *Evocation Cantrip*
@@ -175,4 +189,4 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 **Higher Levels:** This spell’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 energy damage to the target. This extra energy damage increases to 2d6 at 11th level and 3d6 at 17th level.
 
 ***Classes:** Sorcerer, Warlock, Wizard*<br>
-***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Eldritch Knight Fighter*
+***Subclasses:** Arcana Cleric, Arcane Trickster Rogue, Lore Bard, Eldritch Knight Fighter*
