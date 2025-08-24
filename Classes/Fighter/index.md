@@ -39,8 +39,6 @@ At 11th level, you can attack three times whenever you take the Attack action on
 
 ### Fighter Maneuvers Table
 
-<div class='classTable'>
-
 | Level | Superiority Dice Size | Superiority Dice Amount | Maneuvers Known |
 |:---:|:-:|:-:|:-:|
 | 2nd | d4 | 1 | 2 |
@@ -62,5 +60,3 @@ At 11th level, you can attack three times whenever you take the Attack action on
 | 18th | d8 | 3 | 6 |
 | 19th | d8 | 3 | 6 |
 | 20th | d8 | 3 | 6 |
-
-</div>
