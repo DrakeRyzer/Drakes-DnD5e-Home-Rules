@@ -8,7 +8,7 @@ nav_order: 2
 
 
 ## Unarmed Stikes Attacks
-Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons for features and spells that require them.
+Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons for features and spells that require them, except for Two-weapon Fighting.
 
 ## Called Shots
 Often times, in combat, characters might want to target a specific body part or feature of their target when making an attack. This is commonly referred to as a “called shot.” If this is a mechanic you want to implement in your game, consider using the following variant rule.
