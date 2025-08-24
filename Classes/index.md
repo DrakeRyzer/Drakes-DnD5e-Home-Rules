@@ -12,6 +12,7 @@ All Classes with Spellcasting get additional Cantrips at 1st-level, based on the
 - Bard, Cleric, Druid, Sorcerer, Warlock, and Wizard get 3 additional Cantrips.
 - Artificer, Paladin, and Ranger get 2 additional Cantrips.
 - Casting Subclasses for Barbarian, Fighter, Monk, and Rogue get 1 additional Cantrip.
+
 Additionally, whenever you reach a level in a class, you can replace one cantrip you learned from this class’s Spellcasting feature with another cantrip from their respective spell list.
 
 ## Fighting Style Features
