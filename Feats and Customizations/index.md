@@ -4,7 +4,7 @@ has_children: true
 nav_order: 
 ---
 
-#### Proficiency Points
+## Proficiency Points
 When creating a character, you gain 6 proficiency points from your background and a number of additional proficiency points equal to:
 
 <center>

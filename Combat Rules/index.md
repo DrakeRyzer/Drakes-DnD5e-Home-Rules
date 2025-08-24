@@ -1,10 +1,14 @@
 ---
 title: Combat Rules
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Combat Rules
+
+
+## Unarmed Stikes Attacks
+Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons for features and spells that require them.
 
 ## Called Shots
 Often times, in combat, characters might want to target a specific body part or feature of their target when making an attack. This is commonly referred to as a “called shot.” If this is a mechanic you want to implement in your game, consider using the following variant rule.
@@ -40,6 +44,15 @@ When in doubt about whether two creatures flank an enemy on a grid, trace an ima
 A creature who has a reach of greater than 5 feet gains the benefit of flanking against a creature while within melee range, but does not contribute towards flanking unless they are within 5 feet of the target. 
 
 Example: there is a Paladin wielding a halberd and a Fighter wielding a sword and shield fighting an orc. The Paladin is standing 10 feet away from the orc while the Fighter is standing adjacent to the opposite side of the orc. The Paladin gains Advantage with attacks using their halberd because the Fighter is within 5 feet of the orc, however because the Paladin is not within 5 feet of the orc, the Fighter does not gain Advantage on their attacks.
+
+## Grappling
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+
+The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) or Dexterity (Acrobatics) against a DC of 10 plus the target's Strength (Athletics) or Dexterity (Acrobatics) modifier (the target chooses the ability to use). If your target is smaller than you, you have advantage. If the target is larger than you, you have disadvantage. If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+
+**Escaping a Grapple.** A grappled creature can use one Attack as part of an attack action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against a DC of 10 plus your Strength (Athletics) or Dexterity (Acrobatics) modifier (you choose the ability to use).
+
+**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 ## Tactical Initiative
 Rather than each player character and creature acting on their own, two or more allied creatures can instead choose to act tactically and work together using this initiative variant rule.

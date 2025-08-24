@@ -9,7 +9,7 @@ nav_order: 1
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and it becomes sheathed in a thick acidic slime until the start of your next turn. Until the start of your next turn, if the target becomes grappled, or succeeds in grappling or maintaining a grapple, the slime is pressed into its body, causing it to immediately take 1d8 acid damage.
@@ -23,7 +23,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.
@@ -37,7 +37,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and you ward yourself from it.
@@ -53,7 +53,7 @@ If the target forces you to make a saving throw before the start of your next tu
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 You imbue your weapon with a purifying light. As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and it becomes wreathed in a glowing barrier of force energy until the start of your next turn. If the target willingly moves before then, it immediately takes 1d8 force damage, and the spell ends.
@@ -67,7 +67,7 @@ You imbue your weapon with a purifying light. As part of the action used to cast
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** Instantaneous
  
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier.
@@ -81,7 +81,7 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and you create an illusory duplicate of yourself in your space that only the target can see. The target has disadvantage on the next attack roll it makes against you before the start of your next turn.
@@ -95,7 +95,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and it becomes wreathed in an ionic discharge. If the target willingly takes a reaction before the start of your next turn, it immediately takes 1d6 lightning damage, and the spell ends.
@@ -109,7 +109,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and you can choose to deal up to 1d8 of necrotic damage, which you suffer as well. This damage can’t be reduced or negated in any way.
@@ -123,7 +123,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and its mouth is covered by a violet veil until the start of your next turn. If the target willingly speaks before then, it immediately takes 1d8 psychic damage, and the spell ends.
@@ -137,7 +137,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and its speed is reduced by 10 feet until the start of your next turn as the cold energy seeps into its being. Additionally, if the target doesn’t move at least 5 feet before the start of your next turn, it immediately takes 1d8 cold damage, and the spell ends.
@@ -153,7 +153,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Divination Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** Instantaneous
 
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
@@ -167,7 +167,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and if you were hidden from it, it takes an additional 1d4 poison damage.
@@ -181,7 +181,7 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 *Evocation Cantrip*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self (5-foot radius)
-<br>**Components:** S, M (a melee weapon worth at least 1 sp)
+<br>**Components:** S, M (a melee weapon)
 <br>**Duration:** 1 round
 
 As part of the action used to cast this spell, you must make a melee weapon attack against one creature within your reach, otherwise the spell fails. On a hit, the target suffers the attack’s normal effects, and you can teleport to an unoccupied space of your choice within 10 feet of you. If you teleport to a space within 5 feet of the target, the target cannot take reactions until the end of its next turn.
