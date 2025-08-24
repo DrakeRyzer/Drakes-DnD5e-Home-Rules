@@ -25,7 +25,7 @@ Pinned creatures are usually pressed against a hard surface, their limbs held in
 
 * You can Pin creatures of the same size or smaller than you. Creatures larger than you cannot be Pinned.
 * A Pinned creature is unable to perform any actions other than an opposed Grapple check to break the grapple, or cast spells and cantrips with verbal components only.
-* A Pinned creature does not benefit from Dexterity to AC or Shields, and is a valid target for [Coup de Grace](https://drakeryzer.github.io/Drakes-DnD5e-Home-Rules/Combat%20Rules/Combat%20Options/#coup-de-grace), but with disadvantage.
+* A Pinned creature does not benefit from Dexterity to AC or Shields, and is a valid target for [Coup de Grace](https://drakeryzer.github.io/Drakes-DnD5e-Home-Rules/Combat%20Rules/Combat%20Options/#coup-de-grace), but with disadvantage. You can choose to Knock out a Creature instead of killing them.
 * At the start of your turn, you must spend one of your attacks to maintain the Pin. If you choose to use it for anything else, the creature is no longer Pinned by you.
 * During your turn and as long as you have used one of your attacks to maintain the Pin, you can attempt a Disarm action as a bonus action. 
 * A creature remains Pinned as long as it is also Grappled and Restrained. If the Grapple breaks, it is no longer Pinned.
