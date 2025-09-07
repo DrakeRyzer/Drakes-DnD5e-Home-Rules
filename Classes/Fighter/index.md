@@ -41,22 +41,22 @@ At 11th level, you can attack three times whenever you take the Attack action on
 
 | Level | Superiority Dice Size | Superiority Dice Amount | Maneuvers Known |
 |:---:|:-:|:-:|:-:|
-| 2nd | d4 | 1 | 2 |
-| 3rd | d4 | 1 | 2 |
-| 4th | d4 | 1 | 2 |
-| 5th | d4 | 1 | 3 |
-| 6th | d4 | 1 | 3 |
-| 7th | d4 | 1 | 3 |
-| 8th | d4 | 1 | 3 |
-| 9th | d6 | 2 | 4 |
-| 10th | d6 | 2 | 4 |
-| 11th | d6 | 2 | 4 |
-| 12th | d6 | 2 | 4 |
-| 13th | d6 | 2 | 5 |
-| 14th | d6 | 2 | 5 |
-| 15th | d6 | 2 | 5 |
-| 16th | d6 | 2 | 5 |
-| 17th | d8 | 3 | 6 |
-| 18th | d8 | 3 | 6 |
-| 19th | d8 | 3 | 6 |
-| 20th | d8 | 3 | 6 |
+| 2nd | d4 | 2 | 2 |
+| 3rd | d4 | 2 | 2 |
+| 4th | d4 | 2 | 2 |
+| 5th | d6 | 3 | 3 |
+| 6th | d6 | 3 | 3 |
+| 7th | d6 | 3 | 3 |
+| 8th | d6 | 3 | 3 |
+| 9th | d8 | 4 | 4 |
+| 10th | d8 | 4 | 4 |
+| 11th | d8 | 4 | 4 |
+| 12th | d8 | 4 | 4 |
+| 13th | d10 | 5 | 5 |
+| 14th | d10 | 5 | 5 |
+| 15th | d10 | 5 | 5 |
+| 16th | d10 | 5 | 5 |
+| 17th | d12 | 6 | 6 |
+| 18th | d12 | 6 | 6 |
+| 19th | d12 | 6 | 6 |
+| 20th | d12 | 6 | 6 |
