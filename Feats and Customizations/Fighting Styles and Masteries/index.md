@@ -98,15 +98,19 @@ You’ve mastered fighting with two weapons, becoming a flurry of motion. You ga
 
 ### Duelist Style
 You are skilled in the art of fighting with a single weapon. While you are wielding a weapon in one hand with which you are proficient and no other weapons, you gain the following benefit:
+
 - You have advantage on feint attempts.
 - When you miss with a weapon attack on your turn, you can use your bonus action to repeat the attack against the same target. Any modifications to the original attack roll, such as advantage, disadvantage, or without your proficiency bonus, also affect this attack roll.
 - Once on each of your turns, drawing or stowing a one-handed weapon no longer requires your object interaction.
 
 ### Duelist Mastery
 You've mastered the art of fighting with a single weapon, making one weapon feel like many. While you are wielding a weapon in one hand with which you are proficient and no other weapons, you gain the following benefits:
+
+- You have advantage on ability checks and saving throws to avoid being disarmed.
+- While you are wielding a weapon in one hand with which you are proficient and no other weapons, reloading no longer requires a free hand.
 - When you take the Attack action, you can choose to attack with haste at the expense of accuracy. Your weapon attacks are made without the aid of your proficiency bonus, but you can use your reaction to make an additional weapon attack, also without your proficiency bonus. If you would make more than one attack when you take the Attack action, only one attack is made without your proficiency bonus.
 - When a creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
-- You have advantage on ability checks and saving throws to avoid being disarmed.
+
 
 ### Equilibrium Style
 You are skilled at fighting without the confines of armour. While you are wearing light or no armour and not wielding a shield, you gain the following benefits:
